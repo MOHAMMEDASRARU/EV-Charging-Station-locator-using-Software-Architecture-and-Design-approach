@@ -1,0 +1,2 @@
+# EV-Charging-Station-locator-using-Software-Architecture-and-Design-approach
+The aim of the EV Charging Locator system is to develop a user-friendly web application that enables electric vehicle owners to easily locate, book, and manage charging slots at nearby charging stations. The system also provides admins with tools to manage station details, monitor user bookings, and ensure utilization of charging infrastructure.
