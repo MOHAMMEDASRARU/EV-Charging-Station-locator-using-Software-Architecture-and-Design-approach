@@ -1,16 +1,53 @@
-# EV-Charging-Station-locator-using-Software-Architecture-and-Design-approach
-The Aim of the EV Charging Locator system is to develop a user-friendly web application that enables electric vehicle owners to easily locate, book, and manage charging slots at nearby charging stations. The system also provides admins with tools to manage station details, monitor user bookings, and ensure utilization of charging infrastructure.
-The proposed EV Charging Locator system can be effectively applied in:
-Urban and semi-urban areas where electric vehicle adoption is increasing.
-Public and private charging networks, allowing users to locate and book stations in advance.
-Future expansions, such as integrating payment gateways, route optimization, or mobile app support
-The proposed EV Charging Locator system can be effectively applied in:
-Urban and semi-urban areas where electric vehicle adoption is increasing.
-Public and private charging networks, allowing users to locate and book stations in advance.
-Future expansions, such as integrating payment gateways, route optimization, or mobile app support.
-Our System is  designed using an Object-Oriented Programming (OOP) approach in Java, following a modular and layered architecture to ensure scalability, maintainability, and clarity of code.
- The project’s workflow is divided into several key components:The EV Charging Locator System is designed using a Layered MVC (Model–View–Controller) architecture to ensure modularity, clarity, and ease of maintenance.
- The system is divided into several logical layers, each responsible for a specific part of the process, allowing smooth communication between the user interface and the database.
+⚡ EV Charging Locator System
+📖 Overview
+
+The EV Charging Locator System is a Java-based web application designed to simplify the charging experience for electric vehicle (EV) owners. The platform enables users to locate nearby charging stations, reserve charging slots, and manage their bookings through an intuitive interface. An integrated administrator module allows efficient management of charging stations, user bookings, and overall system operations.
+
+Developed using Object-Oriented Programming (OOP) principles and a Layered Model–View–Controller (MVC) Architecture, the system is designed to be scalable, maintainable, and easy to extend with future enhancements.
+
+✨ Features
+🔍 Locate nearby EV charging stations
+📍 View available charging stations
+📅 Book and manage charging slots
+👤 User authentication and booking management
+🛠️ Admin dashboard for station and booking management
+🏗️ Modular architecture for easy maintenance and scalability
+🛠️ Technologies Used
+Java
+Object-Oriented Programming (OOP)
+MVC Architecture
+JDBC
+MySQL
+HTML, CSS, JavaScript
+🏛️ System Architecture
+
+The application follows a Layered MVC (Model–View–Controller) architecture to maintain a clear separation of concerns.
+
+Model – Handles business logic and database operations.
+View – Provides the user interface for users and administrators.
+Controller – Processes user requests and coordinates communication between the Model and View.
+
+This architecture improves code readability, maintainability, and scalability.
+
+🌍 Applications
+
+The EV Charging Locator System can be used in:
+
+Urban and semi-urban areas with increasing EV adoption.
+Public and private EV charging networks.
+Smart city transportation infrastructure.
+Future enhancements such as online payments, route optimization, real-time station availability, and mobile application integration.
+🚀 Future Enhancements
+Online payment gateway integration
+Real-time charging station availability
+Route optimization using maps
+Mobile application support
+Live notifications and booking reminders
+AI-based charging station recommendations
+🎯 Objective
+
+The primary objective of this project is to provide an efficient, user-friendly platform that enables EV owners to locate and reserve charging stations while offering administrators an effective system to manage charging infrastructure and user bookings.
+
 <img width="1311" height="641" alt="image" src="https://github.com/user-attachments/assets/aa812fbf-4cc6-4630-8ad5-0f3b416ff653" />
 <img width="1298" height="711" alt="image" src="https://github.com/user-attachments/assets/91f1edc8-0449-468c-955d-9d8c736c8806" />
 <img width="1448" height="813" alt="image" src="https://github.com/user-attachments/assets/0d19963e-a0d2-4803-82b5-64adea304754" />
