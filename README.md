@@ -1,4 +1,6 @@
 ⚡ EV Charging Locator System
+
+
 📖 Overview
 
 The EV Charging Locator System is a Java-based web application designed to simplify the charging experience for electric vehicle (EV) owners. The platform enables users to locate nearby charging stations, reserve charging slots, and manage their bookings through an intuitive interface. An integrated administrator module allows efficient management of charging stations, user bookings, and overall system operations.
